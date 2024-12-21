@@ -19,7 +19,17 @@ Creaing,Share,Assign,Stablish: <br/>
 <img src="https://i.imgur.com/bzMOtoZ.png" height="80%" width="80%" alt="Lab Step Nr.1"/>
 <img src="https://i.imgur.com/A9qLzsn.png" height="80%" width="80%" alt="Lab Step Nr.1"/>
 <br />
-
+ Step Nr.2 : Victim machine got the file and the connection will be stablish.
+<p align="center">
+Victim machine got the file: <br/>
+<img src="https://i.imgur.com/oGqYrNa.png" height="80%" width="80%" alt="Lab Step Nr.2"/>
+<br />
+ Step Nr.3 : after stablishing connection, i have the normal user priviledge access, next step i will bypass the UAC of the windows 11 machine to become the root user.
+<p align="center">
+Bypassing UAC, gain root user: <br/>
+<img src="https://i.imgur.com/IzGTADR.png" height="80%" width="80%" alt="Lab Step Nr.3"/>
+<img src="https://i.imgur.com/ObSnuCe.png" height="80%" width="80%" alt="Lab Step Nr.3"/>
+<br />
 
 
 
