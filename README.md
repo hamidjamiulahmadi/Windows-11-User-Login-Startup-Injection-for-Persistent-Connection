@@ -13,11 +13,13 @@
 - <b>Windows 11</b>
 
 <h2>Lab walk-through:</h2>
-
+Step Nr.1 : Creating payload, assigning IP and Local host of my computer to the payload, share it through the path with the victim machine and running Metasploit. 
 <p align="center">
 Creaing exploit.exe and sharing path: <br/>
-<img src="https://i.imgur.com/bzMOtoZ.png" height="80%" width="80%" alt="Lab Steps Nr.1"/>
+<img src="https://i.imgur.com/bzMOtoZ.png" height="80%" width="80%" alt="Lab Step Nr.1"/>
+<img src="https://i.imgur.com/A9qLzsn.png" height="80%" width="80%" alt="Lab Step Nr.1"/>
 <br />
+
 
 
 
