@@ -30,6 +30,18 @@ Bypassing UAC, gain root user: <br/>
 <img src="https://i.imgur.com/IzGTADR.png" height="80%" width="80%" alt="Lab Step Nr.3"/>
 <img src="https://i.imgur.com/ObSnuCe.png" height="80%" width="80%" alt="Lab Step Nr.3"/>
 <br />
+Step Nr.4 : As you see i bypassed the UAC and now i am the root user, now i will create a payload and then upload it into the startup folder of the windwos11 machine C drive that whenever the user loged in agian to the machine, the startup folder run automaticlly with Windows and i have a connection with the target machine.
+<p align="center">
+Creating payload, upload to C drive: <br/>
+<img src="https://i.imgur.com/uf9axAq.png" height="80%" width="80%" alt="Lab Step Nr.4"/>
+<img src="https://i.imgur.com/93C5toe.png" height="80%" width="80%" alt="Lab Step Nr.4"/>
+<br />
+Step Nr.5 : We see that the payload is successfully uploaded to the C drive start up, it means whenever the windows start itself again I have a connection on it, then I will open another terminal and run the Metasploit on the following port that I assign it before to see the lab accomplishment and you see down here that i have a connection on the Windows 11 machine and the lab successfully completed
+<p align="center">
+Windows 11 rebooted, Connection stablished agian: <br/>
+<img src="https://i.imgur.com/hvHxK2t.png" height="80%" width="80%" alt="Lab Step Nr.5"/>
+<img src="https://i.imgur.com/xOVFdV0.png" height="80%" width="80%" alt="Lab Step Nr.5"/>
+<br />
 
 
 
